@@ -93,7 +93,7 @@
 
 |            |                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Завдання:  | <p>Побудуємо багатоярусний фонтан з картинки:</p><p><img src=".gitbook/assets/unnamed.png" alt="" data-size="original"></p> |
+| Завдання:  | <p>Побудуйте багатоярусний фонтан з картинки:</p><p><img src=".gitbook/assets/unnamed.png" alt="" data-size="original"></p> |
 | Код:       | <p><img src=".gitbook/assets/124.png" alt=""><br><img src=".gitbook/assets/125.png" alt=""></p>                             |
 | Результат: | ![](.gitbook/assets/123.png)                                                                                                |
 
