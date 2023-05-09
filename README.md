@@ -31,7 +31,7 @@
 | <ol><li>Зробимо основу</li></ol>            | <p><img src=".gitbook/assets/111.png" alt=""><br><img src=".gitbook/assets/image (7).png" alt=""></p>      |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 2. В середині зробимо заглибення (для води) | <p><img src=".gitbook/assets/112.png" alt=""><br><img src=".gitbook/assets/image (6).png" alt=""></p>      |
-| 3. **** Створимо джерело води               | <p><img src=".gitbook/assets/113 (1).png" alt=""><br><img src=".gitbook/assets/image (17).png" alt=""></p> |
+| 3. Створимо джерело води                    | <p><img src=".gitbook/assets/113 (1).png" alt=""><br><img src=".gitbook/assets/image (17).png" alt=""></p> |
 
 ## Основне завдання
 
